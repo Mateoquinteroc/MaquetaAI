@@ -1,4 +1,4 @@
-import Landingfondo from "/HOME.jpg"
+import Landingfondo from "/HOME.png"
 import './fondo.css'
 const Fondo = () => {
     return (
